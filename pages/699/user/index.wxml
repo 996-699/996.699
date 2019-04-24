@@ -1,0 +1,6 @@
+<view class='flex-column'>
+  <view class='ft'>扫码进入699cn小程序，反996秘密花园</view>
+  <image class='wxcode' src='../../../static/img/699code.jpg'></image>
+  <view class='ft'>我的中提供音频、视频、图片三种类型证据保存工具，未来会提供云端存储的增值服务</view>
+  <image class='img-box' src='../../../static/img/4.jpg'></image>
+</view>

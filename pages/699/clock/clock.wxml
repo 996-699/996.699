@@ -1,0 +1,6 @@
+<view class='flex-column'>
+  <view class='ft'>扫码进入699cn小程序，反996秘密花园</view>
+  <image class='wxcode' src='../../../static/img/699code.jpg'></image>
+  <view class='ft'>定时功能提供了一键定时功能，定时候在指定时间会收到微信服务通知，通知您立刻离开工位，用行动反对996</view>
+  <image class='img-box' src='../../../static/img/2.jpg'></image>
+</view>

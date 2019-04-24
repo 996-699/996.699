@@ -1,0 +1,25 @@
+.ft {
+  font-size: 36rpx;
+  color: #000;
+}
+
+.wxcode {
+  margin-top: 20rpx;
+  width: 400rpx;
+  height: 400rpx;
+}
+
+.img-box {
+  margin-top: 20rpx;
+  width: 412rpx;
+  height: 732rpx;
+  border: 1rpx solid;
+  border-color: #000;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: center;
+}

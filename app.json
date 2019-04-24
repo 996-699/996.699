@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/699/index/index",
+    "pages/699/clock/clock",
+    "pages/699/report/index",
+    "pages/699/user/index"
+  ],
+  "networkTimeout": {
+    "request": 6000,
+    "downloadFile": 6000
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "699cn",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于存证加班位置"
+    }
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "list": [
+      {
+        "text": "存证",
+        "pagePath": "pages/699/index/index",
+        "iconPath": "static/icon/1.png",
+        "selectedIconPath": "static/icon/1s.png"
+      },
+      {
+        "text": "定时",
+        "pagePath": "pages/699/clock/clock",
+        "iconPath": "static/icon/2.png",
+        "selectedIconPath": "static/icon/2s.png"
+      },
+      {
+        "text": "公示",
+        "pagePath": "pages/699/report/index",
+        "iconPath": "static/icon/3.png",
+        "selectedIconPath": "static/icon/3s.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/699/user/index",
+        "iconPath": "static/icon/4.png",
+        "selectedIconPath": "static/icon/4s.png"
+      }
+    ]
+  }
+}

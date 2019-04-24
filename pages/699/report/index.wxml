@@ -1,0 +1,6 @@
+<view class='flex-column'>
+  <view class='ft'>扫码进入699cn小程序，反996秘密花园</view>
+  <image class='wxcode' src='../../../static/img/699code.jpg'></image>
+  <view class='ft'>基于一键存证举报数据，我们统计了企业黑名单，所有企业按举报次数排序展示，未来会开放搜索功能</view>
+  <image class='img-box' src='../../../static/img/3.jpg'></image>
+</view>

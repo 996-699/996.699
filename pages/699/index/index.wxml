@@ -1,0 +1,9 @@
+<view class='flex-column'>
+  <view class='ft'>扫码进入699cn小程序，反996秘密花园</view>
+  <image class='wxcode' src='../../../static/img/699code.jpg'></image>
+  <view class='ft'>也可以直接通过微信搜索"699cn"进入小程序，通过微信入口进入需要输入密码进入，密码为：下下上上右左右左，输入完成后点测试即可进入</view>
+  <image class='img-box' src='../../../static/img/index.png'></image>
+  <view class='ft'>699cn首页提供了一键存证功能，可以一键将加班定位、时间数据上传到云链存证</view>
+  <image class='img-box' src='../../../static/img/1.jpg'></image>
+  <image class='img-box' src='../../../static/img/5.jpg'></image>
+</view>
