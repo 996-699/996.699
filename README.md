@@ -18,4 +18,4 @@
 ### 2、打开微信搜索小程序699cn即可进入，微信入口进入需要输入密码，密码为：下下上上右左右左
 
 ## 进入699cn反996互助群，学习反996存证经验，寻求法律援助，扫描二维码进入
-<img src="https://github.com/996-699/996.699/blob/master/static/img/699code.jpg" width="200px" height="200px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/groupcode.jpg" width="200px" height="200px"/>
