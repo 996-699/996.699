@@ -10,4 +10,5 @@
 4. 多媒体存证
 
 # 请扫描一下小程序码进入699cn
-![Image text](https://github.com/996-699/996.699/blob/master/static/img/699code.jpg)
+<img src="https://github.com/996-699/996.699/blob/master/static/img/699code.jpg" width="100px" height="100px"/>
+
