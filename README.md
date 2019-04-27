@@ -10,8 +10,14 @@
 ### 1、扫描以下小程序码进入699cn
 <img src="https://github.com/996-699/996.699/blob/master/static/img/699code.jpg" width="200px" height="200px"/>
 
-### 2、打开微信搜索小程序699cn即可进入，微信入口进入需要输入密码，密码为：下下上上右左右左
-![Image text](https://github.com/996-699/996.699/blob/master/static/img/1.jpg)
+### 2、打开微信搜一搜，搜索699cn即可进入，微信入口进入需要输入密码，密码为：下下上上右左右左
+<img src="https://github.com/996-699/996.699/blob/master/static/img/index.jpg" width="300px" height="700px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/1.jpg" width="300px" height="700px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/2.jpg" width="300px" height="700px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/3.jpg" width="300px" height="700px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/4.jpg" width="300px" height="700px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/5.jpg" width="300px" height="700px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/6.jpg" width="300px" height="700px"/>
 
 ## 版本更新说明：
 
