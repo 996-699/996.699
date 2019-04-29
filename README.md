@@ -31,6 +31,7 @@
 ### 4、多媒体存证
 <img src="https://github.com/996-699/996.699/blob/master/static/img/4.jpg" width="400px" height="700px"/>
 
+# [反996百宝箱](https://github.com/996-699/996.699/blob/master/version.md)
 # [版本更新说明](https://github.com/996-699/996.699/blob/master/version.md)
 # [产品发展规划](https://github.com/996-699/996.699/blob/master/plan.md)
 
