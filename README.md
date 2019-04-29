@@ -5,16 +5,16 @@
    反996存证互助平台，提供一键存证功能，存证数据云端存储，有效期1年，可续存。平台提供一整套妥善保存证据，法律、舆论互助，帮助大家通过资源互助形式保障自我合法权益。
    669cn欢迎志愿者加入，邮件：scansi@163.com
 
-## 加入反996互助群，学习反996存证经验，寻求法律援助，扫描二维码进入
-<img src="https://github.com/996-699/996.699/blob/master/static/img/groupcode.jpg" width="200px" height="200px"/>
-
 ## 进入699cn小程序方式：
 
 ### 1、扫描以下小程序码进入699cn
-<img src="https://github.com/996-699/996.699/blob/master/static/img/699code.jpg" width="200px" height="200px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/699code.jpg" width="260px" height="260px"/>
 
 ### 2、打开微信搜一搜，搜索699cn即可进入，微信入口进入需要输入密码，密码为：下下上上右左右左
 <img src="https://github.com/996-699/996.699/blob/master/static/img/index.png" width="400px" height="700px"/>
+
+## 加入反996互助群，学习反996存证经验，寻求法律援助，扫描二维码进入
+<img src="https://github.com/996-699/996.699/blob/master/static/img/groupcode.jpg" width="200px" height="200px"/>
 
 ## 699cn小程序功能介绍：
 
