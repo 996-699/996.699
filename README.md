@@ -1,4 +1,5 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 # 699cn小程序，反996存证互助联盟
    反996存证互助平台，提供一键存证功能，存证数据云端存储，有效期1年，可续存。平台提供一整套妥善保存证据，法律、舆论互助，帮助大家通过资源互助形式保障自我合法权益。
