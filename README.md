@@ -31,12 +31,6 @@
 ### 4、多媒体存证
 <img src="https://github.com/996-699/996.699/blob/master/static/img/4.jpg" width="400px" height="700px"/>
 
-## 版本更新说明：
+# [版本更新说明](https://github.com/996-699/996.699/blob/master/version.md)
+# [产品发展规划](https://github.com/996-699/996.699/blob/master/plan.md)
 
-### v1.0.3 (2019.04.23)发布
-
-本次发布是699cn首个公测版本，包括以下功能：
-1. 一键存证
-2. 定时提醒
-3. 黑名单报告
-4. 多媒体存证
