@@ -13,6 +13,8 @@
 ## 加入反996互助群，学习反996存证经验，寻求法律援助，扫描二维码进入
 <img src="https://github.com/996-699/996.699/blob/master/static/img/groupcode.jpg" width="200px" height="200px"/>
 
+# [v1.0.5重要更新说明](https://github.com/996-699/996.699/blob/master/version.md)
+
 ## 699cn小程序功能介绍：
 
 ### 1、一键存证
