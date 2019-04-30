@@ -30,9 +30,9 @@ v1.0.5增加计算加班费功能，具体见[版本更新说明](https://github
 <img src="https://github.com/996-699/996.699/blob/master/static/img/4.jpg" width="400px" height="700px"/>
 
 ### 5、发现
-v1.0.5增加发现模块和加班费计算器，具体见[版本更新说明](https://github.com/996-699/996.699/blob/master/version.md)
+v1.0.5增加发现模块和加班费计算器，具体见[版本更新说明](https://github.com/996-699/996.699/blob/master/version.md)  
 <img src="https://github.com/996-699/996.699/blob/master/static/img/6.jpg" width="400px" height="700px"/>
-<img src="https://github.com/996-699/996.699/blob/master/static/img/7.jpg" width="400px" height="700px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/7.png" width="400px" height="700px"/>
 
 # [反996百宝箱](https://github.com/996-699/996.699/blob/master/navigation.md)
 # [版本更新说明](https://github.com/996-699/996.699/blob/master/version.md)
