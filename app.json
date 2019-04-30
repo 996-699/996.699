@@ -2,7 +2,6 @@
   "pages": [
     "pages/699/index/index",
     "pages/699/clock/clock",
-    "pages/699/report/index",
     "pages/699/user/index"
   ],
   "networkTimeout": {
@@ -35,12 +34,6 @@
         "pagePath": "pages/699/clock/clock",
         "iconPath": "static/icon/2.png",
         "selectedIconPath": "static/icon/2s.png"
-      },
-      {
-        "text": "公示",
-        "pagePath": "pages/699/report/index",
-        "iconPath": "static/icon/3.png",
-        "selectedIconPath": "static/icon/3s.png"
       },
       {
         "text": "我的",
