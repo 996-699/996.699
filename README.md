@@ -16,7 +16,7 @@
 ## 699cn小程序功能介绍：
 
 ### 1、一键存证
-v1.0.5增加计算加班费功能，具体见[版本更新说明](https://github.com/996-699/996.699/blob/master/version.md)
+v1.0.5增加计算加班费功能，具体见[版本更新说明](https://github.com/996-699/996.699/blob/master/version.md)  
 <img src="https://github.com/996-699/996.699/blob/master/static/img/1.jpg" width="400px" height="700px"/>
 <img src="https://github.com/996-699/996.699/blob/master/static/img/5.jpg" width="400px" height="700px"/>
 
