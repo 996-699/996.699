@@ -7,11 +7,8 @@
 
 ## 进入699cn小程序方式：
 
-### 1、扫描以下小程序码进入699cn
+### 扫描以下小程序码进入699cn
 <img src="https://github.com/996-699/996.699/blob/master/static/img/699code.jpg" width="260px" height="260px"/>
-
-### 2、打开微信搜一搜，搜索699cn即可进入，微信入口进入需要输入密码，密码为：下下上上右左右左
-<img src="https://github.com/996-699/996.699/blob/master/static/img/index.png" width="400px" height="700px"/>
 
 ## 加入反996互助群，学习反996存证经验，寻求法律援助，扫描二维码进入
 <img src="https://github.com/996-699/996.699/blob/master/static/img/groupcode.jpg" width="200px" height="200px"/>
@@ -26,7 +23,7 @@
 <img src="https://github.com/996-699/996.699/blob/master/static/img/2.jpg" width="400px" height="700px"/>
 
 ### 3、黑名单报告
-<img src="https://github.com/996-699/996.699/blob/master/static/img/3.jpg" width="400px" height="700px"/>
+改版中，改版后会重新开放
 
 ### 4、多媒体存证
 <img src="https://github.com/996-699/996.699/blob/master/static/img/4.jpg" width="400px" height="700px"/>
