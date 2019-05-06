@@ -13,7 +13,7 @@
 <img src="https://github.com/996-699/996.699/blob/master/static/img/699code.jpg" width="260px" height="260px"/>
 
 ## 加入反996互助群，学习反996存证经验，寻求法律援助，扫描二维码进入
-<img src="https://github.com/996-699/996.699/blob/master/static/img/groupcode.jpg" width="200px" height="200px"/>
+<img src="https://github.com/996-699/996.699/blob/master/static/img/groupcode1.jpg" width="200px" height="200px"/>
 
 ## 699cn小程序功能介绍：
 
